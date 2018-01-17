@@ -1,6 +1,8 @@
 html {
     color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Loved by the King;
+    background: linear-gradient(135deg, #FCFDFE 0%, #F5CA99 24%, #FE7A47 48%, 
+    #f4261f 100%);
 }
 
 body {
@@ -12,8 +14,9 @@ body {
     justify-content: center;
     align-items: center;
     color: black;
+    cursor: pointer;
 }
 h1 {
-    text-shadow: 10px 10px 0 rgba(0,0,0,1);
-    font-size: 100px;
+    text-shadow: 5px 5px 0 rgba(0,0,0,1);
+    font-size: 120px;
   }
